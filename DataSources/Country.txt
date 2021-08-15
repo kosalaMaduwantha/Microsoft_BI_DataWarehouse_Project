@@ -1,0 +1,35 @@
+country	countryID
+Argentina	1
+Australia	2
+Austria	3
+Azerbaijan	4
+Bahrain	5
+Belgium	6
+Brazil	7
+Canada	8
+China	9
+France	10
+Germany	11
+Hungary	12
+India	13
+Italy	14
+Japan	15
+Korea	16
+Malaysia	17
+Mexico	18
+Monaco	19
+Morocco	20
+Netherlands	21
+Portugal	22
+Russia	23
+Saudi Arabia	24
+Singapore	25
+South Africa	26
+Spain	27
+Sweden	28
+Switzerland	29
+Turkey	30
+UAE	31
+UK	32
+USA	33
+Vietnam	34
